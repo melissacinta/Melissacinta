@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 
-I go by TechieNg on most platforms, need to contact me? feel free to reachout.
+I go by TechieNg on most platforms, I am a Frontend developer, tech enthusiast, her father's daughter and an all-round home girl. Need to contact me? feel free to reach out melissacinta@gmail.com.
 
 <!--
 **Melissacinta/Melissacinta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
