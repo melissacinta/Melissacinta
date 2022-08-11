@@ -1,4 +1,4 @@
-### Hi there 👋, 
+### Hi there friends 👋, 
 
 I go by TechieNg on most platforms, I am a Frontend developer, tech enthusiast, her father's daughter and an all-round home girl. Need to contact me? feel free to reach out melissacinta@gmail.com.
 
