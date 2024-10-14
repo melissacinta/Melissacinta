@@ -19,5 +19,8 @@ Here are some ideas to get you started:
 <img 
    src="https://github-readme-stats.vercel.app/api?username=Melissacinta&show_icons=true&theme=tokyonight&count_private=true" 
 />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Melissacinta&theme=dark" alt="ikemHood" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Melissacinta&label=Profile%20views&color=0e75b6&style=flat" alt="Melissacinta" /> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melissacinta&layout=compact)](https://github.com/melissacinta/github-readme-stats)
